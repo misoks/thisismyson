@@ -1,0 +1,99 @@
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+
+    <atom:link href="http://www.gooble.biz/timscast/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <title>This Is My Son</title>
+    <link>https://twitter.com/thisismyson</link>
+    <description>Friends share their media boys with each other.</description>
+    <itunes:author>Cathy Fisher</itunes:author>
+    <copyright>© 2016 The Flavor Boys</copyright>
+
+    <language>en-us</language>
+    <pubDate>Sat, 6 Feb 2016 21:00:00 EDT</pubDate>
+    <lastBuildDate>Sat, 6 Feb 2016 21:00:00 EDT</lastBuildDate>
+    <itunes:category text="Comedy"/>
+    <itunes:category text="Movies"/>
+    <itunes:category text="Television"/>å
+    <itunes:explicit></itunes:explicit>
+    <itunes:image href="http://www.gooble.biz/timscast/logo.png"/>
+
+    <itunes:subtitle>It's son versus son in a battle royale of opinions and emotions.</itunes:subtitle>
+    <itunes:summary>Friends share their media boys with each other.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Cathy Fisher</itunes:name>
+      <itunes:email>cathy.a.fisher@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <item>
+      <itunes:author>This Is My Son</itunes:author>
+      <itunes:keywords>Comedy, media, music, Guided by Voices, Lord Huron</itunes:keywords>
+      <itunes:duration>1:13:46</itunes:duration>
+      <title>#5: Guided by Voices v. Lord Huron (with Mark Popham)</title>
+      <guid isPermaLink="true">http://www.gooble.biz/timscast/005-Guided-by-voices-v-lord-huron.mp3</guid>
+      <description>Mark brings '90s alternative lo-fi garage rock Guided by Voices to the table, along with his ambivalence about the band. Cathy ripostes with melodic Michigan boys Lord Huron. Also discussed: beard inheritance, Lena Dunham, Dean Quixote, and the beauty of lakes.</description>
+      <category>Comedy</category>
+      <pubDate>Sun, 6 Mar 2016 23:00:00 EDT</pubDate>
+      <enclosure length="55765287" url="http://www.gooble.biz/timscast/005-Guided-by-voices-v-lord-huron.mp3" type="audio/mpeg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <filename>005-Guided-by-voices-v-lord-huron.mp3</filename>
+    </item>
+
+    <item>
+      <itunes:author>This Is My Son</itunes:author>
+      <itunes:keywords>Comedy, media, entertainment, anime, Nichijou, Tim and Eric</itunes:keywords>
+      <itunes:duration>1:13:46</itunes:duration>
+      <title>#4: Nichijou v. Tim and Eric (with Mouse)</title>
+      <guid isPermaLink="true">http://www.gooble.biz/timscast/004-Nichijou-v-Tim-and-Eric.mp3</guid>
+      <description>Mouse breaks precedent by proposing both her son (the anime Nichijou) and Cathy's son (Tim and Eric). Along the way, they spend a lot of time talking about different states, cultural context, and fear of inauthenticity.</description>
+      <category>Comedy</category>
+      <pubDate>Sun, 28 Feb 2016 9:00:00 EDT</pubDate>
+      <enclosure length="70813072" url="http://www.gooble.biz/timscast/004-Nichijou-v-Tim-and-Eric.mp3" type="audio/mpeg"/>
+      <itunes:explicit>Yes</itunes:explicit>
+      <filename>004-Nichijou-v-Tim-and-Eric.mp3</filename>
+    </item>
+
+    <item>
+      <itunes:author>This Is My Son</itunes:author>
+      <itunes:keywords>Comedy, media, entertainment, The Plague Dogs, The Science of Sleep</itunes:keywords>
+      <itunes:duration>53:24</itunes:duration>
+      <title>#3: The Plague Dogs v. The Science of Sleep (with Kris Jacque)</title>
+      <guid isPermaLink="true">http://www.gooble.biz/timscast/003-The-Plague-Dogs-v-The-Science-of-Sleep.mp3</guid>
+      <description>Kris presents her son, The Plague Dogs, and Cathy counters with The Science of Sleep. We discuss the art and catharsis of the Sad Dog Story, why this podcast is #1 in the iTunes charts, and the dying art of horse tailoring.</description>
+      <category>Comedy</category>
+      <pubDate>Sat, 20 Feb 2016 21:00:00 EDT</pubDate>
+      <enclosure length="53602200" url="http://www.gooble.biz/timscast/003-The-Plague-Dogs-v-The-Science-of-Sleep.mp3" type="audio/mpeg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <filename>003-The-Plague-Dogs-v-The-Science-of-Sleep.mp3</filename>
+    </item>
+
+    <item>
+      <itunes:author>This Is My Son</itunes:author>
+      <itunes:keywords>Comedy, media, entertainment, One Direction, Barenaked Ladies</itunes:keywords>
+      <itunes:duration>53:24</itunes:duration>
+      <title>#2: One Direction v. Barenaked Ladies (with Whitney Reynolds)</title>
+      <guid isPermaLink="true">http://www.gooble.biz/timscast/002-One-Direction-v-BNL.mp3</guid>
+      <description>Whitney presents her boy, One Direction. Cathy responds with Barenaked Ladies. Along the way they talk about fandom, betrayal, Morgan Spurnedlock, and Whitney gives us a bona fide 'sclusie!</description>
+      <category>Comedy</category>
+      <pubDate>Sun, 14 Feb 2016 21:00:00 EDT</pubDate>
+      <enclosure length="51305859" url="http://www.gooble.biz/timscast/002-One-Direction-v-BNL.mp3" type="audio/mpeg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <filename>002-One-Direction-v-BNL.mp3</filename>
+    </item>
+
+    <item>
+      <itunes:author>This Is My Son</itunes:author>
+      <itunes:keywords>Comedy, media, entertainment, The Godfather, The Hunt for Red October, Sean Connery</itunes:keywords>
+      <itunes:duration>1:07:40</itunes:duration>
+      <title>#1: The Godfather v. The Hunt for Red October (with Max Eddy)</title>
+      <guid isPermaLink="true">http://www.gooble.biz/timscast/001-Godfather-v-October.mp3</guid>
+      <description>Cathy presents her boy, The Godfather. Max responds with The Hunt for Red October. In the process they discuss offensive ethnic accents, gender representation, silent sea dongs, and submarine jetskis.</description>
+      <category>Comedy</category>
+      <pubDate>Sat, 6 Feb 2016 21:00:00 EDT</pubDate>
+      <enclosure length="64964987" url="http://www.gooble.biz/timscast/001-Godfather-v-October.mp3" type="audio/mpeg"/>
+      <itunes:explicit>No</itunes:explicit>
+      <filename>001-Godfather-v-October.mp3</filename>
+    </item>
+
+  </channel>
+</rss>
